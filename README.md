@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Edther Daniel
+### Hi there 👋, My name is Esther Daniel
 #### Technical Product/Software Manager
 ![Technical Product/Software Manager](https://media.licdn.com/dms/image/D4D16AQHGSOlY3B5FQg/profile-displaybackgroundimage-shrink_350_1400/0/1696602668878?e=1701907200&v=beta&t=MyVWKWz-_rl8x1_C21MDynZqGY_vEvQPFZZstjpkbj0)
 
