@@ -24,12 +24,7 @@ Skills: REACT / JS / HTML / CSS/ PowerBI/ MS Excel/ PPT expert/ Product Mgt,/ De
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hestherrh)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hestherrh&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hestherrh)  
-
-![GitHub metrics](https://metrics.lecoq.io/hestherrh)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hestherrh&show_icons=true)    
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hestherrh)  
 
-![Profile views](https://gpvc.arturio.dev/hestherrh)  
